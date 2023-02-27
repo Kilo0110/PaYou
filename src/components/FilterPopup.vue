@@ -14,6 +14,10 @@
         <label for="last-name-filter">Last Name</label>
         <input @change="setFilter($event)" type="radio" name="filter-checkbox" id="last-name-filter">
       </li>
+      <li class="filter-option flex justify-between px-2 py-1 rounded-md hover:bg-parent">
+        <label for="email-filter">Email</label>
+        <input @change="setFilter($event)" type="radio" name="filter-checkbox" id="email-filter">
+      </li>
     </menu>
   </div>
 </template>
