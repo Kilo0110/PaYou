@@ -7,10 +7,24 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 /* import specific icons */
-import { faFilter, faEllipsisVertical, faCircleChevronDown, faCircle, faCircleInfo } from '@fortawesome/free-solid-svg-icons'
+import {
+  faFilter,
+  faEllipsisVertical,
+  faCircleChevronDown,
+  faCircle,
+  faCircleInfo,
+  faMagnifyingGlass,
+} from "@fortawesome/free-solid-svg-icons";
 
 /* add icons to the library */
-library.add(faFilter, faEllipsisVertical, faCircleChevronDown, faCircle, faCircleInfo)
+library.add(
+  faFilter,
+  faEllipsisVertical,
+  faCircleChevronDown,
+  faCircle,
+  faCircleInfo,
+  faMagnifyingGlass
+);
 
 import App from "./App.vue";
 import router from "./router";
