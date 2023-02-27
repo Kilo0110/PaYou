@@ -49,6 +49,5 @@ After that you can begin the development server with the following command
 pnpm dev
 ```
 
-## About My Implementation
+## Link to Live Implementation
 You will find the publicly accessible implementation of the task [here](https://payou.onrender.com/)
-Following the Figma UI file, I built the frontend with VueJS and TailwindCSS. As per the instructions, I have my data stored in a local JSON file which is being loaded into the application as an array of object stored in Vuex state. I am also using the Vuex state to store my filter state as well as the sortBy state.
