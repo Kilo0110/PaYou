@@ -1,6 +1,6 @@
 # PaYou
 
-Payment dashboard application for a fictional company. My solution to the Scello Front-end Developer Assessment Task.
+Payment dashboard application for a fictional company. My solution to the Scelloo Front-end Developer Assessment Task.
 
 ## Project Requirements
 
