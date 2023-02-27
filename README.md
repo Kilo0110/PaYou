@@ -19,10 +19,11 @@ NB: The framework to use are Vuejs , Vuex (state management).
 
 NB: For the DATA, use your own fake data set store in an array. (VUEX store)
 
-NB: The UI/UX figma board is available [here](https://www.figma.com/file/lxNl9Hj2GAOuyP4v1OMCsR/Data-Table-v2-(Community)?node-id=423%3 A4410)
+NB: The UI/UX figma board is available [here](https://www.figma.com/file/lxNl9Hj2GAOuyP4v1OMCsR/Data-Table-v2-(Community)?node-id=423%3A4410)
 
 ## Tools and Frameworks
  - VueJS 3
+ - Vuex
  - Typescript
  - Vite - as my build tool
  - TailwindCSS
