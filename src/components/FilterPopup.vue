@@ -14,14 +14,6 @@
         <label for="last-name-filter">Last Name</label>
         <input @change="setFilter($event)" type="radio" name="filter-checkbox" id="last-name-filter">
       </li>
-      <li class="filter-option flex justify-between px-2 py-1 rounded-md hover:bg-parent">
-        <label for="due-date-filter">Due Date</label>
-        <input @change="setFilter($event)" type="radio" name="filter-checkbox" id="due-date-filter">
-      </li>
-      <li class="filter-option flex justify-between px-2 py-1 rounded-md hover:bg-parent">
-        <label for="last-login-filter">Last Login</label>
-        <input @change="setFilter($event)" type="radio" name="filter-checkbox" id="last-login-filter">
-      </li>
     </menu>
   </div>
 </template>
