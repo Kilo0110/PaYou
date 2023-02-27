@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "activityStatus": "active",
+    "lastLoginTime": 1645603780000,
+    "paymentStatus": "paid",
+    "dueDate": 1650912000000,
+    "amountDue": 373.14,
+    "userActivity": [
+      {
+        "date": 1648828800000,
+        "activity": "Completed project review",
+        "details": "Reviewed project deliverables and provided feedback"
+      },
+      {
+        "date": 1649915200000,
+        "activity": "Client meeting",
+        "details": "Met with client to discuss project status and next steps"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "activityStatus": "active",
+    "lastLoginTime": 1647421780000,
+    "paymentStatus": "unpaid",
+    "dueDate": 1650806400000,
+    "amountDue": 358.21,
+    "userActivity": [
+      {
+        "date": 1648641600000,
+        "activity": "Research",
+        "details": "Conducted research on industry trends and best practices"
+      },
+      {
+        "date": 1650652800000,
+        "activity": "Strategy session",
+        "details": "Participated in strategy session to develop new marketing plan"
+      },
+      {
+        "date": 1650825600000,
+        "activity": "Internal meeting",
+        "details": "Attended internal meeting to discuss project updates"
+      }
+    ]
+  },
+    { "id": 3,
+    "name": "Tom Lee",
+    "email": "tom.lee@example.com",
+    "activityStatus": "inactive",
+    "lastLoginTime": 1636685780000,
+    "paymentStatus": "unpaid",
+    "dueDate": 1649910400000,
+    "amountDue": 477.12
+  },
+  { "id": 4,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "activityStatus": "inactive",
+    "lastLoginTime": 1639135380000,
+    "paymentStatus": "overdue",
+    "dueDate": 1648195200000,
+    "amountDue": 222.56
+  },
+  {
+    "id": 5,
+    "name": "Mary Smith",
+    "email": "mary.smith@example.com",
+    "activityStatus": "active",
+    "lastLoginTime": 1644786580000,
+    "paymentStatus": "paid",
+    "dueDate": 1650057600000,
+    "amountDue": 434.78,
+    "userActivity": [
+      {
+        "date": 1647417600000,
+        "activity": "Client call",
+        "details": "Had call with client to discuss project updates"
+      },
+      {
+        "date": 1647643200000,
+        "activity": "Project management",
+        "details": "Managed project deliverables and deadlines"
+      },
+      {
+        "date": 1647936000000,
+        "activity": "Internal meeting",
+        "details": "Attended internal meeting to discuss project status"
+      }
+    ]
+  },
+  { "id": 6,
+    "name": "Emily Chen",
+    "email": "emily.chen@example.com",
+    "activityStatus": "active",
+    "lastLoginTime": 1646108180000,
+    "paymentStatus": "overdue",
+    "dueDate": 1649846400000,
+    "amountDue": 312.45
+  },
+  {
+    "id": 7,
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "activityStatus": "inactive",
+    "lastLoginTime": 1638829780000,
+    "paymentStatus": "paid",
+    "dueDate": 1650220800000,
+    "amountDue": 479.99,
+    "userActivity": [
+      {
+        "date": 1647417600000,
+        "activity": "Client call",
+        "details": "Had call with client to discuss project updates"
+      },
+      {
+        "date": 1647643200000,
+        "activity": "Project management",
+        "details": "Managed project deliverables and deadlines"
+      },
+      {
+        "date": 1647936000000,
+        "activity": "Internal meeting",
+        "details": "Attended internal meeting to discuss project status"
+      }
+    ]
+  },
+  { "id": 8,
+    "name": "Sarah Wang",
+    "email": "sarah.wang@example.com",
+    "activityStatus": "active",
+    "lastLoginTime": 1644479380000,
+    "paymentStatus": "unpaid",
+    "dueDate": 1649232000000,
+    "amountDue": 218.76
+  },
+    { "id": 9,
+    "name": "Alexandra Davis",
+    "email": "alexandra.davis@example.com",
+    "activityStatus": "active",
+    "lastLoginTime": 1646719380000,
+    "paymentStatus": "paid",
+    "dueDate": 165,
+    "amountDue": 162.45
+  },
+  {
+    "id": 10,
+    "name": "Michael Jones",
+    "email": "michael.jones@example.com",
+    "activityStatus": "inactive",
+    "lastLoginTime": 1639970580000,
+    "paymentStatus": "overdue",
+    "dueDate": 1647686400000,
+    "amountDue": 182.45,
+    "userActivity": [
+      {
+        "date": 1648828800000,
+        "activity": "Completed project review",
+        "details": "Reviewed project deliverables and provided feedback"
+      },
+      {
+        "date": 1649915200000,
+        "activity": "Client meeting",
+        "details": "Met with client to discuss project status and next steps"
+      }
+    ]
+  }
+]
